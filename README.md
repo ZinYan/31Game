@@ -3,16 +3,16 @@ The game contain two version: Player vs. Player mode and Computer vs. Player mod
 Notes: Computer will choose random number between 1 to 3.
 E.g., 
   Player A vs. Player B
-      1st round:
+      Round 1:
           Player A: 1
           Player B: 2 3 4
-      2nd round:
+      Round 2:
           Player A: 5 6
           Player B: 7
   Computer vs. Player
-      1st round:
+      Round 1:
           Computer: 1
           Player: 2 3 4
-      2nd round:
+      Round 2:
           Computer: 5 6
           Player: 7
