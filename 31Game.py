@@ -39,7 +39,10 @@ def playGame(player, times, num):
 def Game(player1, player2):
     """Play the game"""
     num = 0
+    round = 0
     while True:
+        round += 1
+        print(f"Round {round}:")
         # Player 1
         print(f"It's {player1}'s turn.")
         if player1 == 'Computer':
